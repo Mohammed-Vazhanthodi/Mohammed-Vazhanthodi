@@ -21,8 +21,10 @@
 🌱 I'm always learning and growing, and I'm open to collaborating on projects that make a difference.
 
 ## Let's Connect!
-- **GitHub:** @yourusername
-- **LinkedIn:** Your Name
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-sufiyan-vt" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
+  <a href="https://www.instagram.com/sufiyan__vt" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=light" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100090730422252" target="_blank"><img src="https://skillicons.dev/icons?i=facebook&theme=light" /></a>
+</p>
 Feel free to reach out if you're looking for a dedicated and creative developer to join your team or collaborate on a project!
 
